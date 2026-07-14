@@ -1,7 +1,7 @@
 # 🔔 Arduino UNO Buzzer Simulation using Wokwi
 
 ## 📖 Description
-This project demonstrates a simple Arduino UNO buzzer simulation using the Wokwi simulator.
+This project demonstrates a simple Arduino UNO buzzer simulation using the Wokwi simulator
 
 ## 🛠️ Components Used
 - Arduino UNO
