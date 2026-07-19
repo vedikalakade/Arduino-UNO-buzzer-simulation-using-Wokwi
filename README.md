@@ -6,7 +6,7 @@ This project demonstrates a simple Arduino UNO buzzer simulation using the Wokwi
 ## 🛠️ Components Used
 - Arduino UNO
 - Buzzer
-- Wokwi Simulator
+- Wokwi Simulator.
 
 ## 💻 Programming Language
 - Arduino C/C++
